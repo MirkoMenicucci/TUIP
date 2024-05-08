@@ -1828,3 +1828,7 @@ section {
   width: 70px;
   margin-bottom: 35px;
 }
+
+.hidden{
+  display:none !important
+}
